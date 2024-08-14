@@ -7,7 +7,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "735ead98c55e33571e1d953bbb667643
 "assets/AssetManifest.bin.json": "ba41ab76a27970f8e72fbd51a96c8dd9",
 "assets/AssetManifest.json": "7be28fda5ea3b28e6c90b176a21ac897",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
-"assets/fonts/MaterialIcons-Regular.otf": "9e1ef8305b29d13702a711d51e7f35ea",
+"assets/fonts/MaterialIcons-Regular.otf": "13a92cd2234c319bd67a87d0091036a1",
 "assets/lib/assets/eas/accountpage.png": "49821c1608ee712cc43f09693c63f64c",
 "assets/lib/assets/eas/bookingpage.png": "fdba00ac4685086c68cf5676a293e5e5",
 "assets/lib/assets/eas/caradmin.png": "54a47d58759372be8e80e036d49002f6",
@@ -39,9 +39,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "735ead98c55e33571e1d953bbb667643
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "a7c6ca288b53188c8fcf290b15881cfe",
-"/": "a7c6ca288b53188c8fcf290b15881cfe",
-"main.dart.js": "de0072c4d459f279462c6edbf26f51c4",
+"index.html": "15a1dd0fe4f3b7fefd076cdf540487c7",
+"/": "15a1dd0fe4f3b7fefd076cdf540487c7",
+"main.dart.js": "2080d722463d7ccc5bfcb60e340ba774",
 "manifest.json": "9685166c2173dd720e321bde3ae48f4b",
 "version.json": "ee68283cf4f4acb614f6fdf5512bdfab"};
 // The application shell files that are downloaded before a service worker can
